@@ -1,0 +1,12 @@
+[ignore]
+.*/node_modules/.*
+
+[include]
+
+[libs]
+flow
+
+[options]
+include_warnings=true
+module.ignore_non_literal_requires=true
+emoji=true
